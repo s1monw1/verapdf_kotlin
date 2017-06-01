@@ -1,0 +1,10 @@
+.gradle
+target
+build
+.vertx
+workplace.xml
+tasks.xml
+.idea/*
+.iws
+pdflib-res
+lib/PDFlib-9.1.0-MSWin64-java
